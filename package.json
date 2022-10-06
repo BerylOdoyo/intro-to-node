@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerylOdoyo/intro-to-node.git"
+  },
+  "author": "Beryl Odoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerylOdoyo/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/BerylOdoyo/intro-to-node#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security"
+  }
+}
